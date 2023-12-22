@@ -1,0 +1,112 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Suç ve Ceza",
+            "author": "Dostoyevski",
+            "image": "https://picsum.photos/200",
+            "year": 1886,
+            "page": 600,
+            "description": "Raskolnikov'un hayatı"
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "image": "https://picsum.photos/201",
+            "year": 1949,
+            "page": 328,
+            "description": "Bir distopya öyküsü"
+        },
+        {
+            "id": 3,
+            "title": "Yabancı",
+            "author": "Albert Camus",
+            "image": "https://picsum.photos/202",
+            "year": 1942,
+            "page": 123,
+            "description": "Toplumun anlamsızlığına karşı mücadele"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter ve Felsefe Taşı",
+            "author": "J.K. Rowling",
+            "image": "https://picsum.photos/203",
+            "year": 1997,
+            "page": 223,
+            "description": "Büyü dünyasına ilk adım"
+        },
+        {
+            "id": 5,
+            "title": "Beyaz Diş",
+            "author": "Jack London",
+            "image": "https://picsum.photos/204",
+            "year": 1906,
+            "page": 311,
+            "description": "Vahşi doğada bir kurt"
+        },
+        {
+            "id": 6,
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "image": "https://picsum.photos/205",
+            "year": 1965,
+            "page": 412,
+            "description": "Çöl gezegeni Arrakis'in hikayesi"
+        },
+        {
+            "id": 7,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "image": "https://picsum.photos/206",
+            "year": 1847,
+            "page": 464,
+            "description": "Bir yetim kızın hikayesi"
+        },
+        {
+            "id": 8,
+            "title": "Sefiller",
+            "author": "Victor Hugo",
+            "image": "https://picsum.photos/207",
+            "year": 1862,
+            "page": 1232,
+            "description": "Fransız Devrimi'nin gölgesinde dram"
+        },
+        {
+            "id": 9,
+            "title": "Don Kişot",
+            "author": "Miguel de Cervantes",
+            "image": "https://picsum.photos/208",
+            "year": 1605,
+            "page": 863,
+            "description": "Akıl tutulması ve macera"
+        },
+        {
+            "id": 10,
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "image": "https://picsum.photos/209",
+            "year": 1877,
+            "page": 864,
+            "description": "Aşk ve toplumsal normlar"
+        },
+        {
+            "id": 11,
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "image": "https://picsum.photos/210",
+            "year": 1851,
+            "page": 635,
+            "description": "Beyaz balina peşindeki bir kaptanın hikayesi"
+        },
+        {
+            "id": 12,
+            "title": "Ulysses",
+            "author": "James Joyce",
+            "image": "https://picsum.photos/211",
+            "year": 1922,
+            "page": 732,
+            "description": "Modernist edebiyatın önemli eserlerinden biri"
+        }
+    ]
+}
