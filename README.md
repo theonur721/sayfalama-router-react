@@ -1,6 +1,6 @@
 <h1> SAYFALAMA-ROUTER-REACT </h1>
 
-sayfalama örneği yapma
+react router dom ile sayfalama örneği yapma
 
 <h2> Kullanılan teknolojiler </h2>
 
